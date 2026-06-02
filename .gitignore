@@ -1,0 +1,17 @@
+# Secret Environment Variables (CRITICAL)
+.env
+
+# Python Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache Files (Generated automatically when running scripts)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local IDE Configurations (Optional but clean)
+.vscode/
+.idea/
